@@ -7,10 +7,10 @@ public class DataStore {
     private static final ArrayList<Appointment> appointments = new ArrayList<>();
 
     public static final String[] DOCTORS = {
-            "Dr. Santos - General Medicine",
-            "Dr. Reyes - Pediatrics",
-            "Dr. Cruz - Dentistry",
-            "Dr. Garcia - Dermatology"
+            "Dr. Dela Cruz - General Medicine",
+            "Dr. Manansala - Pediatrics",
+            "Dr. Paclarin - Dentistry",
+            "Dr. Homecillo - Dermatology"
     };
 
     // Hard-coded admin account (fine for a school project)
